@@ -40,17 +40,14 @@ Merges the changes of the specified branch into your currently opened branch.
 ## git revert <commit hash>
 safely deletes a commit in the history and creates a new revert commit, handy if you want to remove a feature that was added with a feature branch
 
-## git reset
-
-
 ## git fetch
-
+Downloads all the commits and branches on the remote repository to your local copy
 
 ## git log
-
+Shows the commit history on the current branch, and -p to see the actual changes on each commit.
 
 ## git status
-
+Shows what files have been modified or created, which files are staged for the next commit
 
 # Handy Guides
 https://www.atlassian.com/git/glossary#commands
