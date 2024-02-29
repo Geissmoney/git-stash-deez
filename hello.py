@@ -1,1 +1,1 @@
-print("Hello Dad!")
+print("Hey mum and dad!")
